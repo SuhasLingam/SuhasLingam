@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuhasLingam
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and SQl 
+- 🌱 I’m currently learning Html,Css And javaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

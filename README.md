@@ -20,6 +20,15 @@
 ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+
+# 👨‍💻 My Status
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=EthicalHacking&value=80)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Solidity&value=45)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=70)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Linux&value=65)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML,CSS,JS&value=70)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Others&value=30)](https://github.com/harish-sethuraman/readme-components)
+
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SuhasLingam&theme=hacker&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>

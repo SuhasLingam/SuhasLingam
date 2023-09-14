@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m SuhasLingam
 - 👀 I’m interested in Cyber Security, Blockchain Security , Web3 
-- 🌱 I’m currently learning Ethical Hacking, Solidity , Python and Blockchain Pentesting
+- 🌱 I’m currently learning Ethical Hacking, Solidity , Python , C++ and Blockchain Pentesting
 - 💞️ I’m looking to collaborate on CyberSecurity Related Projects, Conducting Events, Projects Related to Web3 and Blockchain 
 - 📫 How to reach me suhaslingam400@gmail.com
 
